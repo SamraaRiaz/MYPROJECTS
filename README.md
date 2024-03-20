@@ -1,2 +1,2 @@
-# CODSOFT
-My projects of CODSOFT 
+# ML PROJECTS
+My projects
